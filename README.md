@@ -1,3 +1,1 @@
-# ClineVercel Metamorphosis Stadsarchief
-
-Enhanced version combining localhost 3000 implementation with Vercel framework
+IyBDbGluZVZlcmNlbCBNZXRhbW9ycGhvc2lzIFN0YWRzYXJjaGllZgoKRW5oYW5jZWQgdmVyc2lvbiBjb21iaW5pbmcgbG9jYWxob3N0IDMwMDAgaW1wbGVtZW50YXRpb24gd2l0aCBWZXJjZWwgZnJhbWV3b3Jr
